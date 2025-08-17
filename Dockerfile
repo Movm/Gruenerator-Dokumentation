@@ -1,5 +1,5 @@
 # Multi-stage build for optimal image size
-FROM node:18-alpine as builder
+FROM node:18-alpine AS builder
 
 WORKDIR /app
 
@@ -21,7 +21,11 @@ FROM nginx:alpine
 # Copy built files to nginx web root
 COPY --from=builder /app/build /usr/share/nginx/html
 
-# Copy minimal nginx configuration for Docusaurus routing
+# Debug: List files to ensure they're copied correctly
+RUN ls -la /usr/share/nginx/html/
+
+# Remove default nginx config and copy our custom config
+RUN rm /etc/nginx/conf.d/default.conf
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 # Add non-root user for security
