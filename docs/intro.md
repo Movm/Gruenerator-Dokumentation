@@ -2,80 +2,34 @@
 sidebar_position: 1
 ---
 
-# Willkommen beim Grünerator - KI-Assistent für grüne Politik
+# Grünerator - die Grüne KI
 
 ![Grünerator Screenshot](/img/screenshot_gruenerator.png)
 
-Entdecke den **Grünerator in wenigen Minuten** und erstelle professionelle politische Inhalte.
 
-## Was ist der Grünerator?
+Der Grünerator ist ein speziell für Bündnis 90/Die Grünen entwickeltes KI-Tool. Er erstellt Texte wie Pressemitteilungen, Social-Media-Beiträge, Anträge für kommunale Parlamente und viele weitere. Außerdem kann er Sharepics "grünerieren" und beim Erstellen von Untertiteln helfen.
 
-Der Grünerator ist eine spezialisierte KI-Anwendung, die Politiker, Aktivisten und Mitarbeiter der Grünen dabei unterstützt, professionelle politische Inhalte zu erstellen. Das Tool nutzt moderne AI-Technologie, um maßgeschneiderte Texte für verschiedene politische Formate zu generieren.
+### Denkt und spricht Grün
 
-Mit einer intuitiven Benutzeroberfläche können Nutzer spezifische Themen und Details eingeben und erhalten dann KI-generierte Vorschläge, die sie weiter bearbeiten können. Das System ist darauf optimiert, die Sprache und Werte grüner Politik zu verstehen und entsprechend authentische Inhalte zu produzieren.
+Der Grünerator wurde anhand grüner Sprache antrainiert. Wenn er einen Beitrag für Instagram oder eine Pressemitteilung erstellt, klingt dieser grün und fühlt sich grün an. 
+
+### Einfache UI & modernste Technik
+
+Der Grünerator verwendet eine stark vereinfachte Benutzeroberfläche, die fast jede:r auf Anhieb versteht. Er wurde so designt, dass er von allen Ehrenamtlichen aller Altersklassen verwendet werden kann. Die UI orientiert sich stark an Seiten, die die Nutzer:innen kennen und lieben. 
+
+Er verwendet mit Sonnet 4 von Anthropic standardmäßig das beste Sprachmodell für kreatives Schreiben und liefert Ergebnisse, die in der Regel die von ChatGPT überbieten.
+
+### Datenschutz per Design
+
+Anders als andere Seiten trackt der Grünerator nicht und kann völlig anonym verwendet werden. Er verwendet EU-Server, um die KI-Eingaben zu verarbeiten und bietet mit einem Klick auf den Privacy-Mode die Möglichkeit, deutsche Server zu verwenden. 
+
+### Plus für Barrierefreiheit
+
+Der Grünerator hilft beim Erstellen von Untertiteln für Instagram Reels & TikToks und kreiert Alt-Texte für Sharepics. Beides ist essenziell für mehr Barrierefreiheit im Netz, aber auch viel Aufwand, den viele Ehrenamtliche kaum schaffen. Mit dem Reel-Grünerator und dem Grünerator für Alt-Texte nimmt der Grünerator diese Aufgaben fast vollständig ab.
+
+### Mit Herz für Open-Source
+
+Der Grünerator wurde auf Basis von Open-Source-Software entwickelt und liegt auf den Servern der Netzbegrünung. Die [netzbegrünung](https://netzbegruenung.de/) ist ein Verein für grüne Netzkultur e.V., der sich seit 2006 für die Förderung der Demokratie im digitalen Raum und eine nachhaltige digitale Infrastruktur einsetzt. Mit über 500 Mitgliedern aus Deutschland und Österreich entwickelt die netzbegrünung innovative digitale Lösungen und vermittelt Fachwissen zu digitalpolitischen Inhalten. 
 
 **Direkt zum Grünerator**: **[gruenerator.de](https://gruenerator.de)**
 
-### Was du brauchst
-
-- Einen modernen Webbrowser (Chrome, Firefox, Safari, Edge)
-- Optional: Zugang zur [Grünen Wolke](https://wolke.netzbegruenung.de) für automatisches Speichern
-
-## Hauptfunktionen
-
-✓ **Pressemitteilungen und Social Media Posts generieren**
-
-✓ **Kommunale Anträge und politische Dokumente erstellen**
-
-✓ **Plattform-spezifische Formatierung** (Facebook, Instagram, Twitter, LinkedIn)
-
-✓ **Instagram Reels mit automatischen Untertiteln**
-
-✓ **Politische Suche mit 'Gruugo' AI-Search**
-
-✓ **Verschiedene Content-Generatoren** (Universal, Grüne Jugend)
-
-✓ **Responsive Design für alle Geräte**
-
-✓ **Newsletter-Integration für Updates**
-
-✓ **Echtzeit-Textgenerierung mit KI**
-
-## Erste Schritte
-
-### 1. Grünerator öffnen
-
-Besuche **[gruenerator.de](https://gruenerator.de)** in deinem Browser. Das Tool läuft vollständig im Browser - keine Installation erforderlich.
-
-### 2. Dokumenttyp wählen
-
-Wähle den gewünschten Dokumenttyp aus:
-- **Anträge** für Parteitage und Gremien
-- **Pressemitteilungen** für Öffentlichkeitsarbeit  
-- **Reden** für Veranstaltungen und Auftritte
-- **Weitere Formate** je nach Bedarf
-
-### 3. Inhalte eingeben
-
-Fülle die bereitgestellten Felder mit deinen Inhalten aus. Der Grünerator führt dich durch alle notwendigen Schritte.
-
-### 4. Dokument generieren
-
-Mit einem Klick wird dein professionell formatiertes Dokument erstellt - bereit zum Download oder zur direkten Verwendung.
-
-## Grüne Wolke einrichten
-
-Für automatisches Speichern und Teilen deiner Dokumente kannst du den Grünerator mit der Grünen Wolke verbinden.
-
-➡️ **[Zur Grüne Wolke Anleitung](/docs/gruene-wolke-tutorial)**
-
-## Projektdetails
-
-- **Kategorie**: AI-Tool
-- **Status**: Aktiv in Entwicklung
-- **Live-URL**: [https://gruenerator.de/](https://gruenerator.de/)
-- **Zielgruppe**: Politiker, Aktivisten und Mitarbeiter der Grünen
-
-## Hilfe und Support
-
-Bei Fragen oder Problemen findest du weitere Informationen in dieser Dokumentation oder wendest dich an den Support.
