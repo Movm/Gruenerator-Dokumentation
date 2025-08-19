@@ -1,4 +1,7 @@
 # Multi-stage build for optimal image size
+# Cache busting argument for forced rebuilds
+ARG CACHEBUST=1
+
 FROM node:18-alpine AS builder
 
 WORKDIR /app
@@ -6,8 +9,8 @@ WORKDIR /app
 # Copy package files first (better Docker layer caching)
 COPY package*.json ./
 
-# Install dependencies
-RUN npm ci --only=production --silent
+# Install dependencies (including devDependencies needed for build)
+RUN npm ci --silent
 
 # Copy source code
 COPY . .
@@ -17,6 +20,9 @@ RUN npm run build
 
 # Production stage - minimal nginx image
 FROM nginx:alpine
+
+# Clean nginx directory to remove old files
+RUN rm -rf /usr/share/nginx/html/*
 
 # Copy built files to nginx web root
 COPY --from=builder /app/build /usr/share/nginx/html
