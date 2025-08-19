@@ -21,7 +21,12 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Erste Schritte
+          </Link>
+          <Link
+            className="button button--outline button--lg"
+            to="/docs/gruene-wolke-tutorial">
+            Grüne Wolke Setup
           </Link>
         </div>
       </div>
@@ -33,8 +38,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title} - Dokumentation`}
+      description="Komplette Dokumentation für den Grünerator - dein Tool für grüne Politik und Kommunikation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

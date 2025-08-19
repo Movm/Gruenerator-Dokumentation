@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Grünerator Doku',
   tagline: 'Dokumentation für den Grünerator',
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -74,10 +74,6 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Grünerator Doku',
-      logo: {
-        alt: 'Grünerator Doku Logo',
-        src: 'img/logo.svg',
-      },
       items: [
         {
           type: 'docSidebar',
