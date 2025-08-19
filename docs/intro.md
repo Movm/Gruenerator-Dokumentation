@@ -2,13 +2,17 @@
 sidebar_position: 1
 ---
 
-# Willkommen beim Grünerator
+# Willkommen beim Grünerator - KI-Assistent für grüne Politik
 
-Entdecke den **Grünerator in wenigen Minuten** und erstelle professionelle politische Dokumente.
+![Grünerator Screenshot](/img/screenshot_gruenerator.png)
+
+Entdecke den **Grünerator in wenigen Minuten** und erstelle professionelle politische Inhalte.
 
 ## Was ist der Grünerator?
 
-Der Grünerator ist ein speziell für grüne Politik entwickeltes Tool zur **automatischen Generierung von Dokumenten**. Erstelle Anträge, Pressemitteilungen, Reden und andere politische Texte mit professionellen Vorlagen und Formatierungen.
+Der Grünerator ist eine spezialisierte KI-Anwendung, die Politiker, Aktivisten und Mitarbeiter der Grünen dabei unterstützt, professionelle politische Inhalte zu erstellen. Das Tool nutzt moderne AI-Technologie, um maßgeschneiderte Texte für verschiedene politische Formate zu generieren.
+
+Mit einer intuitiven Benutzeroberfläche können Nutzer spezifische Themen und Details eingeben und erhalten dann KI-generierte Vorschläge, die sie weiter bearbeiten können. Das System ist darauf optimiert, die Sprache und Werte grüner Politik zu verstehen und entsprechend authentische Inhalte zu produzieren.
 
 **Direkt zum Grünerator**: **[gruenerator.de](https://gruenerator.de)**
 
@@ -16,6 +20,26 @@ Der Grünerator ist ein speziell für grüne Politik entwickeltes Tool zur **aut
 
 - Einen modernen Webbrowser (Chrome, Firefox, Safari, Edge)
 - Optional: Zugang zur [Grünen Wolke](https://wolke.netzbegruenung.de) für automatisches Speichern
+
+## Hauptfunktionen
+
+✓ **Pressemitteilungen und Social Media Posts generieren**
+
+✓ **Kommunale Anträge und politische Dokumente erstellen**
+
+✓ **Plattform-spezifische Formatierung** (Facebook, Instagram, Twitter, LinkedIn)
+
+✓ **Instagram Reels mit automatischen Untertiteln**
+
+✓ **Politische Suche mit 'Gruugo' AI-Search**
+
+✓ **Verschiedene Content-Generatoren** (Universal, Grüne Jugend)
+
+✓ **Responsive Design für alle Geräte**
+
+✓ **Newsletter-Integration für Updates**
+
+✓ **Echtzeit-Textgenerierung mit KI**
 
 ## Erste Schritte
 
@@ -44,6 +68,13 @@ Mit einem Klick wird dein professionell formatiertes Dokument erstellt - bereit 
 Für automatisches Speichern und Teilen deiner Dokumente kannst du den Grünerator mit der Grünen Wolke verbinden.
 
 ➡️ **[Zur Grüne Wolke Anleitung](/docs/gruene-wolke-tutorial)**
+
+## Projektdetails
+
+- **Kategorie**: AI-Tool
+- **Status**: Aktiv in Entwicklung
+- **Live-URL**: [https://gruenerator.de/](https://gruenerator.de/)
+- **Zielgruppe**: Politiker, Aktivisten und Mitarbeiter der Grünen
 
 ## Hilfe und Support
 

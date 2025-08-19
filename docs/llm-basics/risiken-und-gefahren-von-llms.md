@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Risiken und Gefahren von LLMs
+# Risiken und Gefahren
 
 Zugegeben, KI ist praktisch. Aber wir wären nicht bei den GRÜNEN, wenn wir nicht auch darauf achten würden, welche Risiken und Gefahren KI zugrunde liegen. Ich würde folgende Punkte fokussieren:
 

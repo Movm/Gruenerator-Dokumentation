@@ -25,8 +25,10 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--outline button--lg"
-            to="/docs/gruene-wolke-tutorial">
-            Grüne Wolke Setup
+            href="https://gruenerator.de"
+            target="_blank"
+            rel="noopener noreferrer">
+            Zum Grünerator
           </Link>
         </div>
       </div>
@@ -42,7 +44,7 @@ export default function Home(): ReactNode {
       description="Komplette Dokumentation für den Grünerator - dein Tool für grüne Politik und Kommunikation">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
       </main>
     </Layout>
   );

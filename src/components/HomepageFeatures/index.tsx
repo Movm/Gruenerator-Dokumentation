@@ -10,7 +10,7 @@ type FeatureItem = {
 };
 
 const FeatureList: FeatureItem[] = [
-  {
+  /* {
     title: 'Schnell und Einfach',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
@@ -20,8 +20,8 @@ const FeatureList: FeatureItem[] = [
         nicht auf die Formatierung.
       </>
     ),
-  },
-  {
+  }, */
+  /* {
     title: 'Grüne Wolke Integration',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
@@ -31,8 +31,8 @@ const FeatureList: FeatureItem[] = [
         mit deinem Team.
       </>
     ),
-  },
-  {
+  }, */
+  /* {
     title: 'Für Grüne Politik',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
@@ -42,7 +42,7 @@ const FeatureList: FeatureItem[] = [
         richtigen Vorlagen und Stilen.
       </>
     ),
-  },
+  }, */
 ];
 
 function Feature({title, Svg, description}: FeatureItem) {

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Wie LLMs wie ChatGPT funktionieren
+# Grundlagen
 
 Ein großes Sprachmodell, wie zum Beispiel ChatGPT , ist ein KI-Modell, das darauf trainiert ist, menschenähnlichen Text zu verstehen und zu erzeugen. Es ist im Kern eine hochentwickelte Anwendung von **Sprachverarbeitung (NLP), maschinellem Lernen und Deep Learning**.
 
