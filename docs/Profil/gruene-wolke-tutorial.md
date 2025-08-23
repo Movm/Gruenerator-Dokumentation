@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Die Grüne Wolke richtig nutzen
+# Wolke einbinden
 
 Die Grüne Wolke ist unser sicherer Cloud-Speicher für alle grünen Organisationen. Mit der richtigen Konfiguration kannst du deine Dateien nahtlos mit dem Grünerator teilen und automatisch Dokumente hochladen lassen. Diese Anleitung zeigt dir, wie du einen Share-Link mit den richtigen Berechtigungen erstellst.
 
