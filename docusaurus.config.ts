@@ -141,7 +141,7 @@ const config: Config = {
             },
             {
               label: 'Grüne Wolke Anleitung',
-              to: '/docs/gruene-wolke-tutorial',
+              to: '/docs/Profil/gruene-wolke-tutorial',
             },
           ],
         },
