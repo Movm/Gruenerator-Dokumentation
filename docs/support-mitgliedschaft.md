@@ -26,7 +26,7 @@ Zur Einführung in Funktionen, Datenschutz und Open‑Source‑Grundlagen siehe 
 - über 1.000 Mitglieder: 400 €
 
 ## Beiträge für Landesverbände (pro Jahr)
-- Sehr klein (< 5.000): 1.000 €
+- Sehr klein (&lt; 5.000): 1.000 €
 - Klein (5.000–9.999): 3.000 €
 - Mittel (10.000–19.999): 5.000 €
 - Groß (≥ 20.000): 10.000 €
@@ -51,7 +51,7 @@ Zur Einführung in Funktionen, Datenschutz und Open‑Source‑Grundlagen siehe 
 - Sachsen
 - Schleswig‑Holstein
 
-**Sehr klein (< 5.000)**
+**Sehr klein (&lt; 5.000)**
 
 - Brandenburg
 - Bremen
@@ -67,4 +67,5 @@ Zur Einführung in Funktionen, Datenschutz und Open‑Source‑Grundlagen siehe 
 ## Ablauf & Kontakt
 1) Größe bestimmen und Beitrag zuordnen (KV/LV).  
 2) Kontakt aufnehmen per E‑Mail an [info@moritz-waechter.de](mailto:info@moritz-waechter.de) und Support‑Mitgliedschaft anfragen.  
+3) Optional: Anforderungen für Custom‑Grüneratoren abstimmen (Anwendungsfälle, Tonalität, Beispiele).  
 4) Go‑live und interne Bekanntmachung – ab dann profitieren alle Ehrenamtlichen unmittelbar.
