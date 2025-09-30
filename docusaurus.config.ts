@@ -86,6 +86,10 @@ const config: Config = {
       {
         hashed: true,
         language: ["en", "de"],
+        searchResultLimits: 5,
+        searchResultContextMaxLength: 30,
+        searchBarShortcutHint: false,
+        explicitSearchResultPath: false,
       },
     ],
   ],

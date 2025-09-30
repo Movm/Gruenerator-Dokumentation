@@ -85,3 +85,16 @@
   -webkit-text-fill-color: white !important;
   text-shadow: none !important;
 }
+
+/* Minimal search bar styling */
+:root {
+  --search-local-modal-width: 600px;
+  --search-local-spacing: 8px;
+  --search-local-hit-height: 44px;
+  --search-local-modal-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  --search-local-hit-shadow: none;
+}
+
+[data-theme='dark'] {
+  --search-local-modal-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
