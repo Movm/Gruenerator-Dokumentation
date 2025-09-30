@@ -11,61 +11,40 @@ Zur Einführung in Funktionen, Datenschutz und Open‑Source‑Grundlagen siehe 
 
 ## Warum Support‑Member werden?
 - Sicherer, dauerhafter, kostenfreier Zugang für Basismitglieder.
-- Zugriff auf Custom‑Grüneratoren (z. B. eigene Vorlagen/Tonfälle für eure Kampagnen).
+- Zugriff auf Custom‑Grüneratoren (z. B. eigene Vorlagen/Tonfälle für eure Kampagnen).
 - Priorisierte Weiterentwicklung zugunsten der kommunalen Arbeit und Ehrenamtlichen.
 - Aufnahme von Nicht-Grünen-Mitgliedern (soon)
 
 ## Wer kann Support‑Member werden?
 - Landesverbände (LV)
 - Kreisverbände (KV)
-- Abgeordnetenbüros: Bundestag, Europa (300 €); 
+- Abgeordnetenbüros
 
 ## Beiträge für Kreisverbände (pro Jahr)
-- bis 500 Mitglieder: 200 €
-- bis 1.000 Mitglieder: 300 €
-- über 1.000 Mitglieder: 400 €
+- bis 500 Mitglieder: 200 €
+- bis 1.000 Mitglieder: 300 €
+- über 1.000 Mitglieder: 400 €
 
 ## Beiträge für Landesverbände (pro Jahr)
-- Sehr klein (&lt; 5.000): 1.000 €
-- Klein (5.000–9.999): 3.000 €
-- Mittel (10.000–19.999): 5.000 €
-- Groß (≥ 20.000): 10.000 €
-- 
 
-**Groß (≥ 20.000)**
+**Groß (≥ 20.000): 10.000 €**
+- Baden‑Württemberg, Bayern, Nordrhein‑Westfalen
 
-- Baden‑Württemberg
-- Bayern
-- Nordrhein‑Westfalen
+**Mittel (10.000–19.999): 5.000 €**
+- Berlin, Hessen, Niedersachsen
 
-**Mittel (10.000–19.999)**
+**Klein (5.000–9.999): 3.000 €**
+- Hamburg, Rheinland‑Pfalz, Sachsen, Schleswig‑Holstein
 
-- Berlin
-- Hessen
-- Niedersachsen
-
-**Klein (5.000–9.999)**
-
-- Hamburg
-- Rheinland‑Pfalz
-- Sachsen
-- Schleswig‑Holstein
-
-**Sehr klein (&lt; 5.000)**
-
-- Brandenburg
-- Bremen
-- Mecklenburg‑Vorpommern
-- Saarland
-- Sachsen‑Anhalt
-- Thüringen
+**Sehr klein (< 5.000): 1.000 €**
+- Brandenburg, Bremen, Mecklenburg‑Vorpommern, Saarland, Sachsen‑Anhalt, Thüringen
 
 ## Beiträge für Abgeordnetenbüros (pro Jahr)
-- Bundestag: 300 €
-- Europa: 300 €
+- Bundestag: 300 €
+- Europa: 300 €
 
 ## Ablauf & Kontakt
-1) Größe bestimmen und Beitrag zuordnen (KV/LV).  
-2) Kontakt aufnehmen per E‑Mail an [info@moritz-waechter.de](mailto:info@moritz-waechter.de) und Support‑Mitgliedschaft anfragen.  
-3) Optional: Anforderungen für Custom‑Grüneratoren abstimmen (Anwendungsfälle, Tonalität, Beispiele).  
+1) Größe bestimmen und Beitrag zuordnen (KV/LV).
+2) Kontakt aufnehmen per E‑Mail an [info@moritz-waechter.de](mailto:info@moritz-waechter.de) und Support‑Mitgliedschaft anfragen.
+3) Optional: Anforderungen für Custom‑Grüneratoren abstimmen (Anwendungsfälle, Tonalität, Beispiele).
 4) Go‑live und interne Bekanntmachung – ab dann profitieren alle Ehrenamtlichen unmittelbar.
