@@ -133,7 +133,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          to: '/docs/Grünerieren/pro-modus',
+          to: '/docs/gruenerieren/pro-modus',
           label: 'Grünerieren',
           position: 'left',
         },
@@ -157,15 +157,15 @@ const config: Config = {
           items: [
             {
               label: 'Einführung',
-              to: '/docs/Über den Grünerator/intro',
+              to: '/docs/ueber-den-gruenerator/intro',
             },
             {
               label: 'Pro EU',
-              to: '/docs/Über den Grünerator/gruenerator-pro-eu',
+              to: '/docs/ueber-den-gruenerator/gruenerator-pro-eu',
             },
             {
               label: 'Support & Mitgliedschaft',
-              to: '/docs/Über den Grünerator/support-mitgliedschaft',
+              to: '/docs/ueber-den-gruenerator/support-mitgliedschaft',
             },
           ],
         },
@@ -191,11 +191,11 @@ const config: Config = {
             },
             {
               label: 'Pro-Modus',
-              to: '/docs/Grünerieren/pro-modus',
+              to: '/docs/gruenerieren/pro-modus',
             },
             {
               label: 'Privacy-Mode',
-              to: '/docs/Grünerieren/privacy-mode',
+              to: '/docs/gruenerieren/privacy-mode',
             },
           ],
         },
