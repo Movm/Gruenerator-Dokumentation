@@ -128,14 +128,11 @@ const config: Config = {
     //   insights: false,
     // },
     navbar: {
-      title: 'Grünerator Doku',
+      logo: {
+        alt: 'Grünerator Doku Logo',
+        src: 'img/GRÜNERATOR_Doku_Logo_Grün.svg',
+      },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Dokumentation',
-        },
         {
           to: '/docs/Grundlagen/Kennzeichnungs-Guide',
           label: 'Grundlagen',
@@ -155,11 +152,6 @@ const config: Config = {
           to: '/docs/llm-basics/wie-llms-funktionieren',
           label: 'LLM Basics',
           position: 'left',
-        },
-        {
-          href: 'https://gruenerator.de',
-          label: 'Zum Grünerator',
-          position: 'right',
         },
       ],
     },

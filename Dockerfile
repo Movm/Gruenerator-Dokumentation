@@ -2,7 +2,7 @@
 # Cache busting argument for forced rebuilds
 ARG CACHEBUST=1
 
-FROM node:18-alpine AS builder
+FROM node:20-alpine AS builder
 
 WORKDIR /app
 
