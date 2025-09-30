@@ -120,7 +120,27 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Dokumentation',
+        },
+        {
+          to: '/docs/Grundlagen/Kennzeichnungs-Guide',
+          label: 'Grundlagen',
+          position: 'left',
+        },
+        {
+          to: '/docs/Profil/gruene-wolke-tutorial',
+          label: 'Profil',
+          position: 'left',
+        },
+        {
+          to: '/docs/Grünerieren/pro-modus',
+          label: 'Grünerieren',
+          position: 'left',
+        },
+        {
+          to: '/docs/llm-basics/wie-llms-funktionieren',
+          label: 'LLM Basics',
+          position: 'left',
         },
         {
           href: 'https://gruenerator.de',
@@ -133,15 +153,75 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Dokumentation',
+          title: 'Über den Grünerator',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Einführung',
               to: '/docs/Über den Grünerator/intro',
             },
             {
-              label: 'Grüne Wolke Anleitung',
+              label: 'Pro EU',
+              to: '/docs/Über den Grünerator/gruenerator-pro-eu',
+            },
+            {
+              label: 'Support & Mitgliedschaft',
+              to: '/docs/Über den Grünerator/support-mitgliedschaft',
+            },
+          ],
+        },
+        {
+          title: 'Grundlagen',
+          items: [
+            {
+              label: 'Kennzeichnungs-Guide',
+              to: '/docs/Grundlagen/Kennzeichnungs-Guide',
+            },
+            {
+              label: 'Welches KI-Tool wofür?',
+              to: '/docs/Grundlagen/welches-ki-tool-wofuer',
+            },
+          ],
+        },
+        {
+          title: 'Profil & Grünerieren',
+          items: [
+            {
+              label: 'Grüne Wolke Tutorial',
               to: '/docs/Profil/gruene-wolke-tutorial',
+            },
+            {
+              label: 'Pro-Modus',
+              to: '/docs/Grünerieren/pro-modus',
+            },
+            {
+              label: 'Privacy-Mode',
+              to: '/docs/Grünerieren/privacy-mode',
+            },
+          ],
+        },
+        {
+          title: 'LLM Basics',
+          items: [
+            {
+              label: 'Wie LLMs funktionieren',
+              to: '/docs/llm-basics/wie-llms-funktionieren',
+            },
+            {
+              label: 'Risiken & Gefahren',
+              to: '/docs/llm-basics/risiken-und-gefahren-von-llms',
+            },
+          ],
+        },
+        {
+          title: 'Links',
+          items: [
+            {
+              label: 'Zum Grünerator',
+              href: 'https://gruenerator.de',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/Movm/Gruenerator-Dokumentation',
             },
           ],
         },

@@ -12,7 +12,7 @@ Der Grünerator setzt konsequent auf europäische Digitalinfrastruktur und europ
 
 ## Europäische Technologieanbieter
 
-Der Grünerator arbeitet bevorzugt mit Unternehmen aus Europa zusammen. Im Standard-Modus kommt **Mistral AI** aus Frankreich zum Einsatz, für die Bildbearbeitung nutzen wir **Black Forest Labs** aus Deutschland. Der [Privacy-Modus](../Grünerieren/privacy-mode) wird von der **netzbegrünung e.V.** betrieben – einem gemeinnützigen Verein für grüne Netzkultur mit 100% deutschen Servern und selbstgehostetem KI-Modell.
+Der Grünerator arbeitet bevorzugt mit Unternehmen aus Europa zusammen. Im Standard-Modus kommt **Mistral AI** aus Frankreich zum Einsatz, für die Bildbearbeitung nutzen wir **Black Forest Labs** aus Deutschland. Der [Privacy-Modus](../gruenerieren/privacy-mode) wird von der **netzbegrünung e.V.** betrieben – einem gemeinnützigen Verein für grüne Netzkultur mit 100% deutschen Servern und selbstgehostetem KI-Modell.
 
 ## 75%-EU-Ziel
 

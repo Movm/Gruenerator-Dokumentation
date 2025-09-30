@@ -77,3 +77,11 @@
 [data-theme='dark'] .button--outline {
   color: white !important;
 }
+
+/* White gradient text for Grünerator in hero title */
+.titleGreen {
+  color: white !important;
+  background: none !important;
+  -webkit-text-fill-color: white !important;
+  text-shadow: none !important;
+}
