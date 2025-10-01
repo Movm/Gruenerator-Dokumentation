@@ -3,7 +3,7 @@
    ============================================ */
 
 .hero {
-  background: linear-gradient(135deg, #064e3b 0%, #059669 100%);
+  background: var(--background-gradient);
   padding: 4rem 2rem;
   text-align: center;
   position: relative;
@@ -18,8 +18,8 @@
   right: 0;
   bottom: 0;
   background:
-    radial-gradient(circle at 20% 50%, rgba(16, 185, 129, 0.2) 0%, transparent 50%),
-    radial-gradient(circle at 80% 80%, rgba(5, 150, 105, 0.2) 0%, transparent 50%);
+    radial-gradient(circle at 20% 50%, rgba(95, 133, 117, 0.2) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(68, 95, 84, 0.2) 0%, transparent 50%);
   pointer-events: none;
 }
 
@@ -57,7 +57,7 @@
 }
 
 .primaryButton {
-  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  background: var(--accent-gradient);
   color: white;
   padding: 0.875rem 2rem;
   border-radius: 12px;
@@ -65,13 +65,13 @@
   font-size: 1.125rem;
   text-decoration: none;
   transition: all 0.3s ease;
-  box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
+  box-shadow: 0 4px 15px rgba(95, 133, 117, 0.3);
   border: none;
 }
 
 .primaryButton:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);
+  box-shadow: 0 6px 20px rgba(95, 133, 117, 0.4);
   color: white;
   text-decoration: none;
 }
@@ -154,8 +154,8 @@
   box-shadow:
     0 4px 6px rgba(0, 0, 0, 0.05),
     0 20px 25px -5px rgba(0, 0, 0, 0.1),
-    0 10px 10px -5px rgba(16, 185, 129, 0.1);
-  border-color: #10b981;
+    0 10px 10px -5px rgba(95, 133, 117, 0.1);
+  border-color: var(--color-600);
 }
 
 .categoryCardLink {
@@ -217,7 +217,7 @@
   align-items: center;
   gap: 0.5rem;
   padding: 0.5rem 0.75rem;
-  color: #059669;
+  color: var(--color-700);
   text-decoration: none;
   font-size: 0.9375rem;
   font-weight: 500;
@@ -226,8 +226,8 @@
 }
 
 .topPageLink:hover {
-  background: #f0fdf4;
-  color: #047857;
+  background: var(--color-50);
+  color: var(--color-800);
   text-decoration: none;
 }
 
@@ -242,7 +242,7 @@
    ============================================ */
 
 .quickLinks {
-  background: linear-gradient(135deg, #065f46 0%, #047857 100%);
+  background: var(--background-gradient);
   padding: 3rem 2rem;
 }
 
@@ -276,7 +276,7 @@
 
 .quickLinksButton {
   background: white;
-  color: #047857;
+  color: var(--color-700);
   padding: 1rem 2rem;
   border-radius: 12px;
   font-weight: 700;
@@ -292,7 +292,7 @@
 .quickLinksButton:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
-  color: #065f46;
+  color: var(--color-800);
   text-decoration: none;
 }
 
@@ -415,11 +415,11 @@
 }
 
 [data-theme='dark'] .categoryCard:hover {
-  border-color: #10b981;
+  border-color: var(--color-500);
   box-shadow:
     0 4px 6px rgba(0, 0, 0, 0.3),
     0 20px 25px -5px rgba(0, 0, 0, 0.5),
-    0 10px 10px -5px rgba(16, 185, 129, 0.2);
+    0 10px 10px -5px rgba(106, 149, 131, 0.2);
 }
 
 [data-theme='dark'] .categoryTitle {
@@ -435,12 +435,12 @@
 }
 
 [data-theme='dark'] .topPageLink {
-  color: #34d399;
+  color: var(--color-400);
 }
 
 [data-theme='dark'] .topPageLink:hover {
-  background: #065f46;
-  color: #6ee7b7;
+  background: var(--color-800);
+  color: var(--color-300);
 }
 
 /* ============================================

@@ -26,7 +26,12 @@ const config: Config = {
   projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Algolia site verification
   headTags: [
